@@ -57,3 +57,4 @@ cloudscraper
 pycryptodome
 uvloop
 urllib3
+ffmpeg
