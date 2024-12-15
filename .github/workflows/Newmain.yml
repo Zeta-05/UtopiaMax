@@ -35,4 +35,4 @@ jobs:
       # Step 5: Run the bot
       - name: Run the bot
         run: |
-          python bot.py
+          bash start
